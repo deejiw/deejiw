@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deejiw
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning React
+- 👀 I’m interested in application development (especially MERN)
+- 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on web application
 - 📫 How to reach me deejiw@gmail.com
 
