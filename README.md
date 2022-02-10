@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deejiw
-- 👀 I’m interested in CI/CD and application development
+- 👋 Call me deejiw.
+- 👀 Keen on life simplification and process automation (of course DevOps!)
 - 🌱 I’m currently learning lifetime lessons
-- 📫 How to reach me deejiw@gmail.com
+- 📫 Give me a message via deejiw@gmail.com
