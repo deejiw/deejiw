@@ -1,4 +1,1 @@
-- 👋 Call me deejiw.
-- 👀 Keen on life simplification and process automation
-- 🌱 Learning lifetime lessons
-- 📫 Give me a message via deejiw@gmail.com
+
